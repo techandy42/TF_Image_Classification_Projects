@@ -5,4 +5,4 @@
 
 > Projects
 
-- MNIST: 98.7% accuracy
+- MNIST: 98.7% accuracy [Dataset Source](https://www.tensorflow.org/datasets/catalog/mnist)
